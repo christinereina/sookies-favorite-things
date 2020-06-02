@@ -1,3 +1,11 @@
+@media Screen and (min-width: 400) and (max-width: 200) {
+
+}
+
+@media Screen and (min-width: 600) and (max-width: 6000) {
+
+}
+
 body {
   margin-top: 15px;
   padding: 50 px;
@@ -19,3 +27,6 @@ img {
   width: auto;
 }
 
+.dark-background {
+  background-color: black;
+}
